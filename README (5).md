@@ -4,17 +4,19 @@
 
 ### 1. Create MQTT model
 
-![Create MQTT Model](../.assets/mqtt-create-model.gif)
+![mqtt-create-model](https://github.com/user-attachments/assets/392134b2-e177-4e9f-97ca-ed5874fb2454)
+
 
 
 ### 2. Create object
 
-![Create MQTT Object](../.assets/mqtt-create-object.gif)
+![mqtt-create-object](https://github.com/user-attachments/assets/666e3420-72b3-4b96-8acd-1629da7f7454)
 
 
 ### 3. Send some payloads
 
-![Publish MQTT data](../.assets/mqtt-send-data.gif)
+![mqtt-send-data](https://github.com/user-attachments/assets/21b06ac3-fce0-4b41-b885-97f8ea105ce3)
+
 
 For example with `mosquitto_pub` client from [Eclipse Mosquitto](https://mosquitto.org/download/) project.
 
