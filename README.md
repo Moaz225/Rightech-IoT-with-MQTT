@@ -13,6 +13,13 @@
 ![mqtt-create-object](https://github.com/user-attachments/assets/666e3420-72b3-4b96-8acd-1629da7f7454)
 
 
+### Настройки аутентификации MQTT
+
+![mqtt-issue-cert](https://github.com/user-attachments/assets/0db1e5c9-1790-4142-8987-eed7b44e7b91)
+
+
+
+
 ### 3. Send some payloads
 
 ![mqtt-send-data](https://github.com/user-attachments/assets/21b06ac3-fce0-4b41-b885-97f8ea105ce3)
