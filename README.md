@@ -17,6 +17,8 @@
 
 ![mqtt-issue-cert](https://github.com/user-attachments/assets/0db1e5c9-1790-4142-8987-eed7b44e7b91)
 
+### Настройка Wi-Fi и MQTT в PlatformIO (IoT)
+![mqtt-esp32-platformio-vscode](https://github.com/user-attachments/assets/2f5e65f0-af5f-439b-b801-6907c94b09e6)
 
 
 
